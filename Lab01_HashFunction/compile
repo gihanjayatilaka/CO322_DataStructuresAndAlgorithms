@@ -1,0 +1,4 @@
+rm *.class
+javac Learn.java
+javac Driver.java
+java Driver $1 $2
